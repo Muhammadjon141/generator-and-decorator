@@ -1,1 +1,1 @@
-# gnerator-and-decorator
+# generator-and-decorator
